@@ -83,7 +83,7 @@ Shows the vertical support system:
 2. **Install concrete block piers** (12" min below grade)
 3. **Set anchor bolts** with epoxy or concrete
 4. **Install and plumb all posts**
-5. **Install side perimeter beams** (4x4)
+5. **Install side perimeter beams** (4x10)
 6. **Connect to existing roof joists** via hangers
 7. **Install diagonal bracing**
 8. **Inspect and secure all connections**
@@ -113,7 +113,7 @@ This is a planning and documentation repository for the stabilization project. A
   - `front.png` - Front view blueprint
   - `side.png` - Side view blueprint
   - `back.png` - Back view blueprint
-- `PLANS/foundartion.png` - Foundation detail
+- `PLANS/foundartion.png` - Foundation detail (note: filename as it exists in repository)
 
 ## Disclaimer
 
